@@ -14,6 +14,10 @@ PORT=9090 genderize
 ```
 Note: default port is 8080
 
+## Docker
+```bash
+docker run -p 8080:8080 -d ismailbaskin/genderize
+```
 
 ## HTTP Usage
 
