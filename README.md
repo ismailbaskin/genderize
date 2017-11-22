@@ -1,4 +1,4 @@
-# Genderize Server
+# Genderize API
 
 Super simple API for first name to gender conversion.
 Currently 16.201 Turkey, 31.015 USA first name included (see data folder).
